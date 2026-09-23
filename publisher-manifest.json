@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "246511d962005d36f66b5ebc",
+  "owner": "yfnywxgph",
+  "repo": "page-bd24ab5cee5cbd81cfd718b6",
+  "title": "创世",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bd24ab5cee5cbd81cfd718b6",
+      "a": "创世",
+      "b": "稳定全球clash加速器",
+      "entity": "创世",
+      "brand": "创世",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6d770ee2c90518917a9fccd06c88652effa122e979d7ecd475f0a52a966ed1b3",
+      "content": {
+        "primary_entity": "创世",
+        "keyword1": "创世",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，创世把全球线路与 Clash 订阅配置结合，提供基础版、旗舰版、团队版三档套餐。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量，支持 5 台设备，并带 IPLC 专线游戏加速优化；团队版每月 1000GB 流量，支持 20 台设备。按年付分别 150 元、350 元、850 元，可按设备数量与流量需求选择。",
+          "AI_HERO_SUBTITLE": "创世加速，按需选套餐",
+          "AI_HERO_INTRO": "创世是为需要稳定跨区域网络的用户提供的加速器品牌，围绕 Clash 客户端导入订阅、多设备在线和流量套餐设计。基础版、旗舰版与团队版覆盖个人到小团队场景，用户可按设备数量、月流量和线路偏好选择。",
+          "AI_VISUAL_TITLE": "创世加速器套餐一览",
+          "AI_HIGHLIGHT_1": "三档套餐，按设备数选择",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付比月付更省，长期使用更划算",
+          "AI_FEATURES_TITLE": "创世使用特点",
+          "AI_FEATURES_INTRO": "从设备数量、流量和订阅周期三个角度了解创世的套餐差异。",
+          "AI_FEATURE_TITLE_1": "套餐匹配设备",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TITLE_2": "流量覆盖场景",
+          "AI_FEATURE_TEXT_2": "100GB 适合轻度使用，300GB 满足日常，1000GB 可团队共享。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付可随时调整，年付基础版 150 元、旗舰版 350 元、团队版 850 元。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "创世提供 Clash 配置，可在 Windows、macOS、Android、iOS 等平台使用对应客户端导入订阅。不同客户端版本界面略有差异，请以所用客户端文档为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月 15 元或年付 150 元，旗舰版每月 35 元或年付 350 元，团队版每月 85 元或年付 850 元，按设备与流量选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到导入订阅，按流程完成创世配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量，从基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备与 Clash 客户端版本，确保能导入订阅配置。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端文档添加订阅链接，完成后启动加速。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "创世加速，按需订阅",
+          "AI_CLOSING_TEXT": "根据设备与流量选好套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "创世套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "根据设备数量和流量需求判断。1至3台设备、月流量100GB以内可选基础版；5台设备、需要流媒体或游戏加速可选旗舰版；20台设备或企业用途可选团队版。",
+          "AI_FAQ_QUESTION_2": "创世支持哪些客户端？",
+          "AI_FAQ_ANSWER_2": "根据设备平台选择对应客户端：Windows和macOS可用Clash、v2rayN，Android可用v2rayNG、Clash for Android，iOS可用Shadowrocket、Stash，路由器可尝试OpenWrt插件。安装后按客户端文档配置订阅。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，灵活调整；年付一次性支付，基础版150元、旗舰版350元、团队版850元，相比月付连续使用更省钱。适合确定长期使用的场景。",
+          "AI_FAQ_QUESTION_4": "创世设备数量限制如何理解？",
+          "AI_FAQ_ANSWER_4": "每个套餐限制同时在线设备数：基础版3台、旗舰版5台、团队版20台。超出数量可能导致新设备无法连接，可根据使用人数选择更高档套餐。",
+          "AI_FAQ_QUESTION_5": "订阅配置遇到问题怎么办？",
+          "AI_FAQ_ANSWER_5": "确认订阅链接是否完整复制，检查客户端版本与所选套餐的线路类型是否匹配，再对照客户端文档核对导入步骤。团队版用户可联系专属客户经理协助排查。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bbjjk.cn",
+    "host": "bbjjk.cn"
+  },
+  "file_hashes": {
+    "index.html": "68d3d06e5e91e7cf7d7426db0b540581531a3a6ca915b2cfa9b57254c89a3205",
+    "sitemap.xml": "5d0c0f3de38fd4bf7bc32eebd8ce15af7345fd832bed337df92740210ae60de3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4222056567521cff84e1fec58b7958590af99482c83b086222b0c448e065b88f",
+    "robots.txt": "98dbd4b9112cd6c4ca4bd62110ad1be4f807b63705138606526cf6dbc9e865e7",
+    "43a6a5c63d3ec43c3440b564a6925e11.txt": "6ce03154218e0e5bd1eb4d0d789c1149417d849c2d8a633419b4da12f450ecfd"
+  },
+  "revision": "96f8dce75cb3a874d372c8ef6de44f651bfc49d77a2c395f442cdf7af2656673"
+}
